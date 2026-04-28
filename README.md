@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Daniel Lléo and I'm a software developer from Valencia, Spain.</p>
+<p align="left">My name is Daniel Lleó and I'm a software developer from Valencia, Spain.</p>
 
 ###
 
