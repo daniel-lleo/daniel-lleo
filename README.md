@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Programming student<br>📚 I'm currently learning Odoo development<br>🎯 About me: I prefer backend over frontend, but I can try to do anything, I want to become a pro and help people<br>🎲 Fun fact: I used https://profile-readme-generator.com/</p>
+<p align="left">
+  ✨ Programming student<br>
+  📚 Currently learning Odoo development<br>  
+  🎯 About me: I prefer backend over frontend, but I can develop on both. My goal is to become a strong developer and build useful solutions that help people.
+</p>
 
 ###
 
